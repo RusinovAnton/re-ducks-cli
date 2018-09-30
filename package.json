@@ -1,0 +1,21 @@
+{
+  "name": "re-ducks-cli",
+  "version": "1.0.0",
+  "description": "CLI for re-ducks structured projects",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.11"
+  },
+  "bin": {
+    "re-ducks-cli": "bin/re-ducks-cli.js"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Rusinov Anton <rusinovantondev@gmail.com> (https://rusinovanton.github.io/personal-website/)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.18.0"
+  }
+}
