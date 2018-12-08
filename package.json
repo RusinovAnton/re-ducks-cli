@@ -1,5 +1,5 @@
 {
-  "name": "re-ducks-cli",
+  "name": "quack-cli",
   "version": "1.0.0",
   "description": "CLI for re-ducks structured projects",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "node": ">=8.11"
   },
   "bin": {
-    "re-ducks-cli": "bin/re-ducks-cli.js"
+    "quack": "bin/quack.js"
   },
   "scripts": {
     "test": "npm test"
