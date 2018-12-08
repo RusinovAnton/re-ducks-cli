@@ -1,2 +1,2 @@
-# re-ducks-cli
+# quack-cli
 WIP
