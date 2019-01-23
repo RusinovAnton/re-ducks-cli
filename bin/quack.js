@@ -10,9 +10,4 @@ program
   .option('-n, --name [component-name]', 'Component name.')
   .action(require('../lib/add'));
 
-program
-  .command('delete <type>')
-  .option('-n, --name [component-name]', 'Component name.')
-  .action(require('../lib/delete'));
-
 program.parse(process.argv);

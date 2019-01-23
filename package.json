@@ -1,6 +1,6 @@
 {
-  "name": "quack-cli",
-  "version": "1.0.0",
+  "name": "@quack-js/quack-cli",
+  "version": "1.0.0-beta.1",
   "description": "CLI for re-ducks structured projects",
   "main": "index.js",
   "engines": {
